@@ -3,7 +3,7 @@
 
 /**
  * main - Check description
- * Description: It prints the word Holberton, followed by a new line
+ * Description: It prints the word Holberton, followed by a new line.
  * Return: 0.
  */
 int main(void)
@@ -17,4 +17,3 @@ int main(void)
 
 	return (0);
 }
-

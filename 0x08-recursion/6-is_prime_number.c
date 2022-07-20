@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 /**
  * primenumber - checks if a given number is prime
  * @n: given number
